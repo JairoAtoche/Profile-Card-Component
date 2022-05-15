@@ -134,4 +134,7 @@
     .body {
         background-position: top -500px left -800px, bottom -600px right -720px;
     }
+    .footer {
+        margin: 0;
+    }
 }
